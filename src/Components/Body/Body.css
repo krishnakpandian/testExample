@@ -1,0 +1,8 @@
+.body-container {
+    height: 60vh;
+    background-color: blue;
+}
+
+.body-container.examples {
+    display: flex;
+}
